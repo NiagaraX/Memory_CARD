@@ -1,1 +1,1 @@
-A game with quastions and answers
+A game with quastions and answers to them
